@@ -1,0 +1,9 @@
+Thanks {{name}} for purchasing {{item}} from our outlet {{outlet}}. 
+Please visit our outlet {{outlet}} for any kind of problems. We plan to server you again soon.
+
+
+
+
+Thank you{{Abdullah}}for purchasing{{Table Fan}}from our outlet{{godrej outlet}}
+please visit our outlet{{outlet}}for any kind of problem.we plan to server you again
+
